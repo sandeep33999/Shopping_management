@@ -81,6 +81,7 @@ dsa_project/
 
 ## 📦 Requirements
 
+- Use linux based system
 - C++17 or above
 - Terminal/CLI for interaction
 - g++ compiler (for Linux)

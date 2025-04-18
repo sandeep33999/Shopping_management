@@ -1,0 +1,5 @@
+Customer ID: RD002
+Item	Qty	Price	Total
+banana	20	20	400
+Discount: 0% (-₹0.00)
+Total Paid: ₹400.00

@@ -1,0 +1,8 @@
+Customer ID: RD004
+Item	Qty	Price	Total
+pen	300	12	3600
+apple	0	400	0
+gavava	80	430	34400
+mango	600	640	384000
+Discount: 21% (-₹88620.00)
+Total Paid: ₹333380.00

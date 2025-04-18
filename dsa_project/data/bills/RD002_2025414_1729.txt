@@ -1,0 +1,5 @@
+Customer ID: RD002
+Item	Qty	Price	Total
+mango	5	640	3200
+Discount: 21% (-₹672.00)
+Total Paid: ₹2528.00

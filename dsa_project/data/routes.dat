@@ -1,0 +1,8 @@
+LHC O4 5
+LHC main_gate 10
+LHC mess 4
+Physic_department basic_lab 8
+O4 basic_lab 3
+O4 sport-complex 6
+O4 mess 2
+O3 O4 1

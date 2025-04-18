@@ -1,0 +1,5 @@
+Customer ID: RD002
+Item	Qty	Price	Total
+book	20	110	2200
+Discount: 21% (-₹462.00)
+Total Paid: ₹1738.00

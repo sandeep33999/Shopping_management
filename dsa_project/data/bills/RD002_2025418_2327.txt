@@ -1,0 +1,5 @@
+Customer ID: RD002
+Item	Qty	Price	Total
+blue_pen	20	12	240
+Discount: 21% (-₹50.40)
+Total Paid: ₹189.60

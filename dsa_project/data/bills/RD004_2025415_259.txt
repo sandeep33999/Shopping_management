@@ -1,0 +1,5 @@
+Customer ID: RD004
+Item	Qty	Price	Total
+mango	30	640	19200
+Discount: 50% (-₹9600.00)
+Total Paid: ₹9600.00

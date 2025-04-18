@@ -1,0 +1,6 @@
+Customer ID: RD002
+Item	Qty	Price	Total
+pen	200	12	2400
+banana	20	1251	25020
+Discount: 21% (-₹5758.20)
+Total Paid: ₹21661.80

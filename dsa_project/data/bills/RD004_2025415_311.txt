@@ -1,0 +1,7 @@
+Customer ID: RD004
+Item	Qty	Price	Total
+maggi	10	50	500
+blue_pen	30	12	360
+apple	50	400	20000
+Discount: 21% (-₹4380.60)
+Total Paid: ₹16479.40

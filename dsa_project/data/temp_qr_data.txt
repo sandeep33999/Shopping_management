@@ -1,0 +1,2 @@
+upi://pay?pa=sandeepgond4@ybl&pn=SARCShop&am=50.000000&cu=INR
+upi://pay?pa=sandeepgond4@ybl&pn=SARCShop&am=189.600006&cu=INR

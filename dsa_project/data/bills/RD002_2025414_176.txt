@@ -1,0 +1,7 @@
+Customer ID: RD002
+Item	Qty	Price	Total
+apple	10	400	4000
+pen	6	4201	25206
+orangee	25	561	14025
+Discount: 21% (-₹9078.51)
+Total Paid: ₹34152.49

@@ -1,0 +1,7 @@
+Customer ID: RD002
+Item	Qty	Price	Total
+pen	50	4201	210050
+book	60	40	2400
+apple	1	400	400
+Discount: 21% (-₹44698.50)
+Total Paid: ₹168151.50

@@ -1,0 +1,5 @@
+Customer ID: RD002
+Item	Qty	Price	Total
+orangee	42	40	1680
+Discount: 50% (-₹840.00)
+Total Paid: ₹840.00

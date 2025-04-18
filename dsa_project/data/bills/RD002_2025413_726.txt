@@ -1,0 +1,5 @@
+Customer ID: RD002
+Item	Qty	Price	Total
+apple	40	400	16000
+Discount: 21% (-₹3360.00)
+Total Paid: ₹12640.00
